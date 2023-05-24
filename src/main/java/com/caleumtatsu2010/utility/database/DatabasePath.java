@@ -1,9 +1,9 @@
-package com.caleumtatsu2010.utility.file.common;
+package com.caleumtatsu2010.utility.database;
 
-public class Path {
-	//project dir
+public class DatabasePath {
+	public static String databaseName = "techmate";
 	
-	//    private static String dir = "D:\\stuff\\JAVA\\techmate";
+	//project dir
 	private static String dir = "C:\\stuff\\Projects\\techmate_parent\\techmate_core";
 
 	private static String resources =  "\\src\\main\\resources";
