@@ -1,4 +1,4 @@
-package com.caleumtatsu2010.utility.database.sql.jdbc;
+package com.caleumtatsu2010.utility.jdbc;
 
 import com.caleumtatsu2010.utility.object.pojo.reflect.ObjectUtilityInvoker;
 
