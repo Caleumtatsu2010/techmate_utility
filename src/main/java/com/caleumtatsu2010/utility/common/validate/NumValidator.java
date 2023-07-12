@@ -1,5 +1,5 @@
 package com.caleumtatsu2010.utility.common.validate;
 
-public class NumberValidator {
+public class NumValidator {
 
 }
